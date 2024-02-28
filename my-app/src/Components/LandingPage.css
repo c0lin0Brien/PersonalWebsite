@@ -1,0 +1,20 @@
+.landers {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 5vh;
+}
+
+.name {
+    font-size: 10vh;
+    padding-left: 2vw;
+}
+
+.tinyLanders {
+    display: flex;
+}
+
+.landed {
+    padding-left: 2vw;
+    padding-right: 2w;
+}
