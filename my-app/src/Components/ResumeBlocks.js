@@ -29,4 +29,4 @@ function Experience() {
     )
 }
 
-export default Experience;
+export {Experience, ResumeBlock};

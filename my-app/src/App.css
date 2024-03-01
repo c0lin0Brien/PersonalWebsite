@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    flex-direction: column;
+    height: 300vh;
+    background: black;
+    color: white;
+    font-weight: bold;
+}
+.experience {
+    padding-top: 10vh;
+    text-align: center;
+    font-size: 5vh;
+}
