@@ -8,6 +8,8 @@
     border-style: solid;
     border-radius: 5px;
     width: 33vw;
+    height: 50vh;
+    flex-basis: 1;
     margin-top: 10vh;
     margin-left: 2vw;
     margin-right: 2vw;
@@ -25,9 +27,9 @@
 }
 
 .logo {
-    background-color: white;
-    width: 10vw;
-    height: 10vh;
+    width: 5vw;
+    height: 5vh;
+    flex-basis: 0;
     
 }
 
