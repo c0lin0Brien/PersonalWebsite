@@ -1,0 +1,59 @@
+.header {
+    text-align: center;
+    font-size: 5vh;
+    padding-top: 10vh;
+}
+.block {
+    border: 4px white;
+    border-style: solid;
+    border-radius: 5px;
+    width: 33vw;
+    margin-top: 10vh;
+    margin-left: 2vw;
+    margin-right: 2vw;
+}
+
+.job {
+    font-size: 3vh;
+}
+
+.jobContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.logo {
+    background-color: white;
+    width: 10vw;
+    height: 10vh;
+    
+}
+
+.titleLogo {
+    padding-top: 2vh;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.description {
+    padding-left: 2vw;
+    padding-right: 2vw;
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+    padding-top: 2vh;
+    font-size: 2vh;
+}
+
+.blockRow {
+    display: flex;
+    overflow: hidden;
+    overflow-x: scroll;
+}
+
+.blockRow::-webkit-scrollbar { 
+    display: none;  /* Safari and Chrome */
+}
