@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/PersonalWebsite/static/css/main.83ddddb6.css",
+    "main.js": "/PersonalWebsite/static/js/main.567dd86c.js",
+    "static/js/453.ed3810f9.chunk.js": "/PersonalWebsite/static/js/453.ed3810f9.chunk.js",
+    "static/media/PIKESHOW.JPG": "/PersonalWebsite/static/media/PIKESHOW.58ca03b024538535fdd4.JPG",
+    "static/media/WestPortal.jpg": "/PersonalWebsite/static/media/WestPortal.dbf17a8c958dfc1f8f66.jpg",
+    "static/media/CalSol.jpeg": "/PersonalWebsite/static/media/CalSol.8e3dc6e46a5b7be0b503.jpeg",
+    "static/media/CAM.jpeg": "/PersonalWebsite/static/media/CAM.77bc7af481ad72ff5407.jpeg",
+    "static/media/SFPUC.png": "/PersonalWebsite/static/media/SFPUC.c3b5603add5f2004ac45.png",
+    "static/media/CodeBase.png": "/PersonalWebsite/static/media/CodeBase.9c4e84e0d9e9691ecc40.png",
+    "index.html": "/PersonalWebsite/index.html",
+    "main.83ddddb6.css.map": "/PersonalWebsite/static/css/main.83ddddb6.css.map",
+    "main.567dd86c.js.map": "/PersonalWebsite/static/js/main.567dd86c.js.map",
+    "453.ed3810f9.chunk.js.map": "/PersonalWebsite/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83ddddb6.css",
+    "static/js/main.567dd86c.js"
+  ]
+}
